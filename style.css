@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(173, 230, 206);
+    text-align: justify;
+}
+body a{
+    color: blue;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    background-color: rgba(67, 167, 105, 0.534);
+}
+nav{
+    text-align: center;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+h1{
+   font-size: 35px; 
+}
+h2{
+    font-size: 27px;
+}
+p{
+    font-size: 23px;
+}
+div{
+    text-align: center;
+}
+div a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+div img{
+    text-align: center;
+    border: solid,rgb(11, 80, 37) 10px;
+    border-radius: 10px;
+}
+small{
+    font-size: 20px;
+}
+.mapa iframe{
+    border: solid,rgb(11, 80, 37) 10px;
+    border-radius: 10px;
+}
+.video iframe{
+    border: solid, rgb(11, 80, 37) 10px;
+    border-radius: 10px;
+}
